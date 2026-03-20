@@ -1,0 +1,41 @@
+Resources and Timeline
+
+Hey everyone!
+Welcome to Week 1 of your project journey. This week, we’re starting with the basics of Machine Learning to build a solid foundation before diving deeper into advanced ideas. I’ve shared a simple reading resource from GeeksforGeeks along with a few selected videos from the Simplilearn ML playlist (videos 1, 9, 11, and 12). Take your time with them — explore, understand, and don’t hesitate to ask questions whenever something feels unclear. Let’s keep the learning light, consistent, and enjoyable as we move forward together!                
+https://www.geeksforgeeks.org/introduction-machine-learning/
+https://youtube.com/playlist?list=PLEiEAq2VkUUI73199L-Aym2MnKjBxJ-4X (cover videos 1,9,11,12)
+
+---------------------------------------------------------
+
+Hey everyone 👋 For Week 2 of our LiDAR cone-classification project, please go through the two clustering resources linked here: K-Means clustering (https://youtu.be/Xvwt7y2jf5E?si=PGTvWu8xAdHjjvm8
+) and DBSCAN clustering (https://youtu.be/RDZUdRSDOok?si=gDaVrsyrzpeVqdqd
+). These videos will help you build a solid understanding of clustering fundamentals and why techniques like DBSCAN are crucial for detecting and separating cone structures from LiDAR point clouds.
+
+----------------------------------------------------------
+
+Hey everyone!
+
+Please watch these 2 short videos to get comfortable with RANSAC 
+https://youtu.be/9D5rrtCC_E0
+https://youtu.be/EkYXjmiolBg
+
+After this, make a small documentation on whatever you’ve learned so far . This will count as your midterm submission, with the deadline on 4th Jan.
+
+Also, since our LiDAR pipeline works on Linux, we’ll need to dual boot Ubuntu. You can refer to the tasks mentioned in this doc:
+https://docs.google.com/document/d/1QfCS5DQliO-NC10wy4Q6cdnJL7Bi0GunHTB0Vef_p5o/edit
+
+---------------------------------------------------------
+
+https://docs.google.com/document/d/118-LV0ZYQbe7jZfnz4CR1GlFfv9yny58zvzC8sSytkw/edit?usp=sharing
+
+This doc helps you get familiar with ROS(robot operating system) that we will be needing to do our final assignment, so follow it
+
+----------------------------------------------------------
+
+final assignment
+
+https://docs.google.com/document/d/1RvF-rnkvutT5Xx61C6HuI9_yHnl55vZZ69Xee-U2yaM/edit?usp=sharing
+
+once that is done, start with the final assignment as per this doc.
+
+---------:)------------------------
